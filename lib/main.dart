@@ -347,3 +347,40 @@ Kotlin, Flutter, Cyber Security, AI နှင့် ၁၂၀ ခုကျော
     super.dispose();
   }
 }
+
+// ENGLISH (1:30 - Professional confidence)
+"""
+Hi, I'm Moekyawaung, Android Senior Developer based in Myanmar.
+
+With 7 years of hands-on experience, I've mastered Java, Kotlin, 
+Flutter, React Native, and built secure enterprise-grade apps 
+for global clients.
+
+My 120+ certifications from Programming Hub cover everything 
+from Cyber Security and Ethical Hacking to AI/ML, Blockchain, 
+and full-stack web development with Bootstrap and Next.js.
+
+Whether you need performance-optimized Android apps, cross-platform 
+solutions, or secure backend integration—I'm ready to deliver.
+
+Let's build something amazing together. Contact me today!
+"""
+
+// MYANMAR (မြန်မာ - Local pride!)
+"""
+မင်္ဂလာပါ၊ ကျွန်တော်က Moekyawaung ဖြစ်ပါတယ်။
+
+Myanmar မှ Android Senior Developer တစ်ဦးဖြစ်ပြီး 
+၇ နှစ်ကျော် အတွေ့အကြုံရှိပါတယ်။
+
+Java, Kotlin, Flutter, React Native တို့ကို ကျွမ်းကျင်စွာ 
+အသုံးပြုပြီး ကမ္ဘာ့ရှေ့ဆောင် client များအတွက် 
+secure enterprise app များ တည်ဆောက်ခဲ့ပါတယ်။
+
+Programming Hub မှ ၁၂၀ ခုကျော် certification ရထားပြီး 
+Cyber Security, AI/ML, Blockchain, Bootstrap, Next.js တို့ 
+ပါဝင်ပါတယ်။
+
+သင့်ရဲ့ Android app ကို ကမ္ဘာ့အဆင့် ဖန်တီးပေးပါမယ်။
+ဆက်သွယ်လိုက်ပါ။
+"""
